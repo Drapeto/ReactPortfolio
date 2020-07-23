@@ -2,14 +2,9 @@ import React from 'react';
 import '../../styles/PortfolioCard.css'
 import Card from 'react-bootstrap/Card'
 import MadLibz from '../../utils/images/MadLibz.JPG'
-import WeatherOrNot from '../../utils/images/WeatherorNot.png'
-import CodeQuiz from '../../utils/images/CodeQuiz.png'
-import TeamGenerator from '../../utils/images/TeamGenerator.png'
-import READMEDemo from '../../utils/images/Demo.gif.gif'
-import EatDaBurger from '../../utils/images/EatDaBurger.png'
-import LeadAstray from '../../utils/images/LeadAstray.png'
-import BudgetTracker from '../../utils/images/BudgetTracker.png'
-import GoogleBooksSearch from '../../utils/images/GoogleBooksSearch.png'
+import Nina from '../../utils/images/nina.jpg'
+import Bestimator from '../../utils/images/Bestimator.JPG'
+import RandomPassword from '../../utils/images/RandomPassword'
 import Spiral from '../../utils/images/Spiral.png'
 
 
@@ -31,7 +26,7 @@ function Portfolio() {
             <div className="col mb-4">
                 <div className="card">
                     <a href="https://drapeto.github.io/Random-Password/">
-                        <img src="Assets\Images\Random Password.JPG" className="card-img-top" alt="Random-Password"></img></a>
+                        <img src="Assets\Images\RandomPassword.JPG" className="card-img-top" alt="Random-Password"></img></a>
                     <div className="card-body">
                         <h5 className="card-title">Random Password Generator</h5>
                     </div>
