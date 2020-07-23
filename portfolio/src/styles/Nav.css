@@ -1,0 +1,15 @@
+.logo {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+a.nav-link {
+    color: white;
+    background-color: #2F4F4F;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}

@@ -1,0 +1,11 @@
+.card-body {
+    margin: 10px 10px 10px 10px;
+}
+
+.card-title:hover {
+    color: white;
+}
+
+.card-text {
+    margin-top: 10px;
+}

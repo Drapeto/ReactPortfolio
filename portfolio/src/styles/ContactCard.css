@@ -1,0 +1,47 @@
+.card {
+    background-color: #2F4F4F;
+    color: white;
+    opacity: 0.9;
+    border-radius: 1em;
+  }
+  
+  .card-body{
+    font-weight: bold;
+  }
+  .row {
+    margin-top: 10px;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  h4 {
+    text-decoration-line: overline;
+  }
+
+.fa-linkedin, .fa-github {
+    color: white;
+    font-size: x-large;
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+
+.fa-envelope {
+  margin-right: 10px;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: #2F4F4F;
+}
+
+p {
+  font-weight: lighter;
+}
+
+.blockquote-footer, .Source {
+  color: white;
+}
